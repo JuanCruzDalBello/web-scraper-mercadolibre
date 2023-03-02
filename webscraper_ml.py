@@ -1,3 +1,6 @@
+# MercadoLibre Webscraper
+# Juan Cruz Dal Bello - Portfolio Project
+
 import os
 from subprocess import call
 from platform import system
