@@ -1,0 +1,4 @@
+tk
+csv
+requests
+bs4
