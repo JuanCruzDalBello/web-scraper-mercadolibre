@@ -201,3 +201,4 @@ class MercadoLibreScraper(tk.Tk):
 if __name__ == "__main__":
     app = MercadoLibreScraper()
     app.mainloop()
+    
