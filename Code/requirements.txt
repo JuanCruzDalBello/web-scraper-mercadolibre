@@ -1,4 +1,4 @@
-customtkinter
-pandas
-bs4
+tk
+csv
 requests
+bs4
